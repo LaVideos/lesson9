@@ -60,7 +60,7 @@
 //     {title: 'Frontend', monthDuration: 4}];
 //
 // for (const item of coursesAndDurationArray) {
-//     let block = document.createElement('div');
+//     let block = d ocument.createElement('div');
 //
 //    //  block.innerHTML = `
 //    //  ${Object.keys(item)[0]} - ${item.title}</br>
